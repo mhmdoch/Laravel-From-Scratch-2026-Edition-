@@ -1,17 +1,14 @@
-<!doctype html>
 
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Contact</title>
-</head>
+<x-layout title="Contact Us">
 
-<body>
     <h1>Contact Us</h1>
-</body>
 
-</html>
+    <x-card class="max-w-400">
+      <p>Placeholder for the contact form.</p>
+    </x-card>
+
+    <a href="/">back to Home</a>
+</x-layout>
